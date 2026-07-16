@@ -11,6 +11,9 @@ Team Members:
 
 3.Dhruvi Relan-05101172025, IGDTUW
 
+Link to Dataset used: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci
+
+
 **Live App:** [customersegmentation-forjsvg6fqqmit74k46lrk.streamlit.app](https://customersegmentation-forjsvg6fqqmit74k46lrk.streamlit.app/)
 
 A machine learning project that segments e-commerce customers into actionable groups using RFM (Recency, Frequency, Monetary) analysis and unsupervised clustering, deployed as an interactive Streamlit dashboard.
